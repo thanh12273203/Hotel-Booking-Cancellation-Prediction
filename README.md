@@ -9,7 +9,7 @@ The dataset `INNHotelsGroup.csv` includes various details about hotel bookings, 
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
-- Libraries: pandas, numpy, scikit-learn, matplotlib (The notebook will detail the installation)
+- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 
 ## Usage
 1. Clone this repository or download the files.
@@ -22,4 +22,5 @@ The dataset `INNHotelsGroup.csv` includes various details about hotel bookings, 
 - Data loading and preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature selection and engineering
+- Logistic regression, support vector machine (SVM), decision tree, random forest
 - Model building and evaluation
